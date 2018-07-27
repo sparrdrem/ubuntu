@@ -12,7 +12,7 @@ Dependency: `easyrpg-player` (>=0.5.3), `libc6` (>= 2.14), `libfreetype6` (>= 2.
 
 ### G
 
-[gencache](#)
+[gencache](https://github.com/sparrdrem/ubuntu/releases/tag/v1.0.0-6-gencache)
 
 Dependency: _none_
 
