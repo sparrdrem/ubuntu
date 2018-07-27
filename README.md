@@ -14,7 +14,7 @@ Dependency: `easyrpg-player` (>=0.5.3), `libc6` (>= 2.14), `libfreetype6` (>= 2.
 
 [gencache](#)
 
-Dependency: 
+Dependency: _none_
 
 [gens](#)
 
