@@ -60,7 +60,7 @@ Releases:
 * [zesty](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-6-gencache/gencache_1.0.0-6_all_zesty.zip)
 
 Dependency:
-* `easyrpg-player` (>= 0.5.3)
+* _none_
 
 ### gens
 
