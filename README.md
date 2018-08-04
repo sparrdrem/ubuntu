@@ -64,7 +64,25 @@ Dependency:
 
 ### gens
 
+Releases:
+* [artful]
+* [lucid]
+* [maverick]
+* [natty]
+* [oneiric]
+* [quantal]
+* [raring]
+* [saucy]
+* [utopic]
+* [vivid]
+* [wily]
+* [yakkety]
+* [zenial]
+
 Dependency: 
+* `libsdl1.2-dev`:i386
+* `libpulse-dev`:i386
+* `libglib2.0-dev`:i386
 
 ## H
 
