@@ -25,12 +25,15 @@ All the archived programs are stored here for the sparrdrem ppa
 
 ### easyrpg-editor
 
-Releases:
+<details><summary>Releases:</summary>
+<p>
 * [artful](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-3-editor/easyrpg-editor_1.0.0-3_all_artful.zip)
 * [yakkety](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-3-editor/easyrpg-editor_1.0.0-3_all_yakkety.zip)
 * [zesty](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-3-editor/easyrpg-editor_1.0.0-3_all_zesty.zip)
+</p>
+</details>
 
-Dependency:
+<details><summary>Dependency:</summary>
 * `easyrpg-player` (>=0.5.3)
 * `libc6` (>= 2.14)
 * `libfreetype6` (>= 2.2.1)
@@ -47,6 +50,8 @@ Dependency:
 * `libstdc++6` (>= 5.2)
 * `libvorbisfile3` (>= 1.1.2)
 * `zlib1g` (>= 1:1.1.4)
+</p>
+</details>
 
 ## F
 
@@ -54,13 +59,19 @@ Dependency:
 
 ### gencache
 
-Releases:
+<details><summary>Releases:</summary>
+<p>
 * [artful](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-6-gencache/gencache_1.0.0-6_all_artful.zip)
 * [yakkety](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-6-gencache/gencache_1.0.0-6_all_yakkety.zip)
 * [zesty](https://github.com/sparrdrem/ubuntu/releases/download/v1.0.0-6-gencache/gencache_1.0.0-6_all_zesty.zip)
+</p>
+</details>
 
-Dependency:
+<details><summary>Dependency:</summary>
+<p>
 * _none_
+</p>
+</details>
 
 ### gens
 
