@@ -65,19 +65,19 @@ Dependency:
 ### gens
 
 Releases:
-* [artful]
-* [lucid]
-* [maverick]
-* [natty]
-* [oneiric]
-* [quantal]
-* [raring]
-* [saucy]
-* [utopic]
-* [vivid]
-* [wily]
-* [yakkety]
-* [zenial]
+* [artful](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_artful.zip)
+* [lucid](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_lucid.zip)
+* [maverick](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_maverick.zip)
+* [natty](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_natty.zip)
+* [oneiric](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_oneiric.zip)
+* [quantal](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_quantal.zip)
+* [raring](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_raring.zip)
+* [saucy](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_saucy.zip)
+* [utopic](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_utopic.zip)
+* [vivid](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_vivid.zip)
+* [wily](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_wily.zip)
+* [yakkety](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_yakkety.zip)
+* [zenial](https://github.com/sparrdrem/ubuntu/releases/download/v2.15.5-3/gens_2.15.5-3_all_zesty.zip)
 
 Dependency: 
 * `libsdl1.2-dev`:i386
